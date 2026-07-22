@@ -7,4 +7,5 @@ int main(){
 
     printf("Olá Mundo!");
     printf("Estou fazendo uma modificação no meu código.");
+    printf("Gozei!");
 }
