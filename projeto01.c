@@ -5,6 +5,6 @@ int main(){
     SetConsoleOutputCP(65001);
     SetConsoleCP(65001);
 
-    printf("Olá");
+    printf("Olá Mundo!");
     printf("Estou fazendo uma modificação no meu código.");
 }
